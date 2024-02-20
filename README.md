@@ -2,6 +2,9 @@
 <h6>🕞 Back-end ve Front-end alanlarında kendimi geliştirmeye çalışıyor, yeni teknolojileri hevesle takip etmeye çabalıyorum.</h6>
 <h6>🕥 Şu anda HTML&CSS Bootstrap ile beraber Javascript, React alanlarında kendimi geliştiriyorum.</h6>
 <h6>💻 Yazılıma başladığımdan şu ana kadar bir çok farklı dile merak salmış, bir çok farklı alanları denemiş bulunmaktayım. Bunlar arasında C dili, C# ile .NET, Flutter ile mobil uygulama, ve şu anda devam etmekte olduğum Javascript bulunuyor. React eğitimlerimi tamamladıktan sonra NodeJS gibi diğer teknolojileri tamamlayıp Fullstack bir developer olmak en büyük hayalim. Bunun için her gün çalışıyor ve çabalıyorum.</h6>
+<a href="https://www.linkedin.com/in/profilinizin-adı" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
 
 <!--
 **Berkayilmz/Berkayilmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
