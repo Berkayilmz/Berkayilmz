@@ -1,4 +1,5 @@
-### Hi there 👋
+👋 Merhaba! Ben Berkay Yılmaz. Süleyman Demirel Üniversitesi'nde bilgisayar mühendisliği bölümünde 3. sınıf öğrencisiyim.
+:clock: Back-end ve Front-end alanlarında kendimi geliştirmeye çalışıyor, yeni teknolojileri hevesle takip etmeye çabalıyorum.
 
 <!--
 **Berkayilmz/Berkayilmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
