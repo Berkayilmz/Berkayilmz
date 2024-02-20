@@ -1,5 +1,7 @@
 👋 Merhaba! Ben Berkay Yılmaz. Süleyman Demirel Üniversitesi'nde bilgisayar mühendisliği bölümünde 3. sınıf öğrencisiyim.
-:clock: Back-end ve Front-end alanlarında kendimi geliştirmeye çalışıyor, yeni teknolojileri hevesle takip etmeye çabalıyorum.
+🕞 Back-end ve Front-end alanlarında kendimi geliştirmeye çalışıyor, yeni teknolojileri hevesle takip etmeye çabalıyorum.
+🕥 Şu anda HTML&CSS Bootstrap ile beraber Javascript, React alanlarında kendimi geliştiriyorum.
+💻 Yazılıma başladığımdan şu ana kadar bir çok farklı dile merak salmış, bir çok farklı alanları denemiş bulunmaktayım. Bunlar arasında C dili, C# ile .NET, Flutter ile mobil uygulama, ve şu anda devam etmekte olduğum Javascript bulunuyor. React eğitimlerimi tamamladıktan sonra NodeJS gibi diğer teknolojileri tamamlayıp Fullstack bir developer olmak en büyük hayalim. Bunun için her gün çalışıyor ve çabalıyorum.
 
 <!--
 **Berkayilmz/Berkayilmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
