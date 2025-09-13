@@ -25,9 +25,10 @@ Bilgisayar Mühendisliği | 4. Sınıf Öğrencisi
 | Alan                   | Teknolojiler                                                                 |
 |------------------------|------------------------------------------------------------------------------|
 | Mobil Geliştirme       | React Native, Expo, Firebase                                                 |
-| Web Geliştirme         | React.js, Node.js, Express.js, MongoDB, EJS                                  |
-| Backend & Veritabanı   | Firebase, MongoDB, REST API, JWT                                             |
-| Araçlar & Otomasyon    | Git, GitHub, Postman, VSCode, Selenium (Temel), Linux Terminal               |
+| Web Geliştirme         | React.js, Express.js, EJS                                                    |
+| Backend                | NodeJS, .Net Core Web API, REST API, JWT                                     |
+| Veritabanı             | MySQL, MongoDB, Firebase, JWT                                                |
+| Araçlar & Otomasyon    | Git, GitHub, Postman, VSCode, Visual Studio, Selenium (Temel)                |
 | Ağ Teknolojileri       | IP yapılandırmaları, DHCP, ARP, temel yönlendirme, switch port ayarları      |
 
 
@@ -35,7 +36,10 @@ Bilgisayar Mühendisliği | 4. Sınıf Öğrencisi
 
 ## 📫 Bana Ulaşın
 
-<a href="https://www.linkedin.com/in/berkay-y%C4%B1lmaz-088b8a271/" target="_blank">
+<a href="(https://berkaylmz.com.tr)" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Berkay%20Yılmaz-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="www.linkedin.com/in/berkayylmz" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/berkayyilmzzz/" target="_blank">
