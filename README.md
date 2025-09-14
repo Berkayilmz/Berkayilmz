@@ -37,7 +37,7 @@ Bilgisayar Mühendisliği | 4. Sınıf Öğrencisi
 ## 📫 Bana Ulaşın
 
 <a href="https://berkaylmz.com.tr" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Berkay%20Yılmaz-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 <a href="www.linkedin.com/in/berkayylmz" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
